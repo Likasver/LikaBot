@@ -18,7 +18,7 @@ def send_inline_keyboard(message):
     button1 = telebot.types.InlineKeyboardButton("Кнопка 1", callback_data="button1")
     button2 = telebot.types.InlineKeyboardButton("Кнопка 2", callback_data="button2")
     keyboard.add(button1, button2)
-    bot.send_message(message.chat.id, "Выберите кнопку:", reply_markup=keyboard)
+    bot.send_message(message.chat.id, "Выберите  кнопку:", reply_markup=keyboard)
 
 @bot.callback_query_handler(func=lambda call: True)
 def handle_callback(call):
