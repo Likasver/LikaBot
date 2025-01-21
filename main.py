@@ -4,7 +4,7 @@ BOT_TOKEN = "7704194972:AAFB_iOKXj2T2JKPbJUIPpSuczvT2mN_Lhw"  # Замените
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
-# @bot.message_handler(commands=['start', 'help'])
+# @bot.message_handler(commands= ['start', 'help'])
 # def send_welcome(message):
 #     bot.reply_to(message, "Привет!  Я простой Telegram-бот.")
 #
