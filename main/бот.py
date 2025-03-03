@@ -44,11 +44,9 @@ knowledge_base = {
     },
 },
 
-# Словарь для хранения состояний пользователей
+
 user_data = {}
 
-
-# Обработчик команд /start и /help
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
     welcome_message = """
@@ -63,11 +61,9 @@ def send_welcome(message):
 @bot.message_handler(commands=['style'])
 def ask_style(message):
     try:
-        style_name = message.text.split(" ", 1)[1].lower()  # Получаем название стиля
+        style_name = message.text.split(" ", 1)[1].lower()
         if style_name in knowledge_base:
-            # Сохраняем выбранный стиль для пользователя
             user_data[message.chat.id] = {"style": style_name, "step": "ask_room"}
-            # Спрашиваем тип помещения
             bot.reply_to(message, "Выберите тип помещения (гостиная, спальня, кухня, детская, прихожая):")
         else:
             bot.reply_to(message, "Извините, я не знаю такой стиль. Попробуйте ещё раз.")
