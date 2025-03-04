@@ -1,5 +1,27 @@
 import telebot
 
+BOT_TOKEN = "YOUR_BOT_TOKEN"
+
+bot = telebot.TeleBot(BOT_TOKEN)
+
+@bot.message_handler(func=lambda message: True)
+def echo_all(message):
+    try:
+        # ВАШ КОД ОБРАБОТКИ СООБЩЕНИЯ
+        bot.reply_to(message, message.text)
+    except Exception as e:
+        print(f"Произошла ошибка: {e}") # Логирование ошибки
+        bot.reply_to(message, "Произошла ошибка при обработке сообщения.")
+
+try:
+    bot.infinity_polling()
+except Exception as e:
+    print(f"Infinity polling exited: {e}")
+
+
+
+import telebot
+
 BOT_TOKEN = "7636250407:AAF7YPi8sPk85jDARr41V2eI1VayVsKJS_o"
 bot = telebot.TeleBot(BOT_TOKEN)
 
