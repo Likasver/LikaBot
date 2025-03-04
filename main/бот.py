@@ -90,14 +90,14 @@ user_data = {}
 COMMANDS = {
     "start": "Начать работу с ботом",
     "help": "Получить справку по командам",
-    "style": "Выбрать стиль интерьера (например, /style minimalism)",
+    "style": "Выбрать стиль интерьера (например, /style minimalism, loft, boho)",
 }
 
 # Сообщения
 MESSAGES = {
     "welcome": """
 Привет! Я ваш помощник в дизайне интерьера. Вот что я могу:
-/style - Выбрать стиль интерьера (например, /style minimalism)
+/style - Выбрать стиль интерьера (например, /style minimalism, loft, boho)
 """,
     "unknown_command": "Извините, я не понимаю эту команду. Используйте /help для списка команд.",
     "style_not_found": "Извините, я не знаю такой стиль. Попробуйте ещё раз.",
@@ -122,7 +122,7 @@ def ask_style(message):
         else:
             bot.reply_to(message, MESSAGES["style_not_found"])
     except IndexError:
-        bot.reply_to(message, "Пожалуйста, укажите стиль после команды /style (например, /style minimalism)")
+        bot.reply_to(message, "Пожалуйста, укажите стиль после команды /style (например, /style minimalism, loft, boho)")
 
 # Обработчик для выбора помещения
 @bot.message_handler(func=lambda message: user_data.get(message.chat.id, {}).get("step") == "ask_room")
