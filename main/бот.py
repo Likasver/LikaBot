@@ -43,6 +43,7 @@ KNOWLEDGE_BASE = {
     }
 }
 
+
 # Инициализация бота
 bot = telebot.TeleBot(BOT_TOKEN)
 
