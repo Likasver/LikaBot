@@ -40,9 +40,45 @@ KNOWLEDGE_BASE = {
                 "коричневый": ["https://avatars.mds.yandex.net/i?id=30b3e5a0201c6b920635cce2a4ffb57d666200bd-10599899-images-thumbs&n=13"],
             }
         }
+    },
+"loft": {
+    "гостиная": {
+            "цвет": {
+                "белый": ["https://avatars.mds.yandex.net/i?id=9831bea2055206cc08101795306f3101170711f0-7001681-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=e9483b7d0a6a83875ec493f6379b85acc2a6b1ea-10354750-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=7840246eda875417f8d0accc52c9476d974a8491-10849338-images-thumbs&n=13"],
+            }
+        },
+        "спальня": {
+            "цвет": {
+                "белый": ["https://avatars.mds.yandex.net/i?id=c03fb413757ddc5612846a1d0d24a7b816799e21edd67585-11376718-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=5f96837ea117caff962f45570eadf75b760b4507-13509485-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=cdc84be21d1e7a6774c28155f130e6b0851b677b-10767243-images-thumbs&n=13"],
+            }
+        },
+        "кухня": {
+            "цвет": {
+                "белый": ["https://avatars.mds.yandex.net/i?id=b9412bea812c583a1a6d6585db45bb0d306226f6-7065709-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=19f4906a9d15885e3b97f204ede03e6d22065f0f-12500826-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=6542bb102e98e7f7de4a4a55725b753a1e27d5b3-13469218-images-thumbs&n=13"],
+            }
+        },
+        "детская": {
+            "цвет": {
+                 "белый": ["https://avatars.mds.yandex.net/i?id=d1be969f28378d95daea12bd73577a6430781280-5271179-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=82de79a93e1655ad49365c5e16336d76e1fdeda6-5364055-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=d163d04147506fa004b1e99944bbf6f951d2d5ee-12540459-images-thumbs&n=13"],
+            }
+        },
+        "прихожая": {
+            "цвет": {
+                "белый": ["https://avatars.mds.yandex.net/i?id=0a862016d139f5c9a73f79dcf1161f412b4eb076-9847625-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=9bf9449def76a62b5753b6551006c33e4fb283be-5221636-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=e55851226c2b70a9c8b12e79ab973427d3ddff19-9860570-images-thumbs&n=13"],
+            }
+        }
     }
 }
-
 
 # Инициализация бота
 bot = telebot.TeleBot(BOT_TOKEN)
