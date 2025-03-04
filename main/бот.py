@@ -7,37 +7,37 @@ KNOWLEDGE_BASE = {
     "minimalism": {
         "гостиная": {
             "цвет": {
-                "белый": ["https://example.com/white_living_room.jpg"],
-                "серый": ["https://example.com/gray_living_room.jpg"],
-                "коричневый": ["https://example.com/brown_living_room.jpg"],
+                "белый": ["https://avatars.mds.yandex.net/i?id=c0cc9aac344ad2bac58495f411e56d30-5232511-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=58604683860e676c438d8bcc448618d200ed6d795d358aff-12534005-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=576d1fedebf6a6eb73141c9963165aac696c0d8f-10299502-images-thumbs&n=13"],
             }
         },
         "спальня": {
             "цвет": {
-                "белый": ["https://example.com/white_bedroom.jpg"],
-                "серый": ["https://example.com/gray_bedroom.jpg"],
-                "коричневый": ["https://example.com/brown_bedroom.jpg"],
+                "белый": ["https://avatars.mds.yandex.net/i?id=40be64df1c477c93a692f2bfd9a7fd39-3501814-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=dfc1bbb329dc68491a8ddc3757e8be2f1558ce36-5606166-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=4b43668b150d1a792cd23cccc75049a1220d2a21-4900921-images-thumbs&n=13"],
             }
         },
         "кухня": {
             "цвет": {
-                "белый": ["https://example.com/white_kitchen.jpg"],
-                "серый": ["https://example.com/gray_kitchen.jpg"],
-                "коричневый": ["https://example.com/brown_kitchen.jpg"],
+                "белый": ["https://avatars.mds.yandex.net/i?id=8f10ba24b7aa85b8ef2223f805ce9c3a5cbb8e11-10850090-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=139dcf7758b8d68de7a4c0b7a2af56d07867ccf4-8282002-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=52ccdb497cb6701fd0bf1ce41d2f59fd521631801d709878-12322312-images-thumbs&n=13"],
             }
         },
         "детская": {
             "цвет": {
-                "белый": ["https://example.com/white_kids_room.jpg"],
-                "серый": ["https://example.com/gray_kids_room.jpg"],
-                "коричневый": ["https://example.com/brown_kids_room.jpg"],
+                 "белый": ["https://avatars.mds.yandex.net/i?id=aa9b9631892b975ef3658d209dbe7d648178dd29-8497900-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=9a7aeaf8d80e689dce38e9b6060ce332-5875719-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=fc1d6b3b4222f642c6d4f4a199eb91fa623ca106-10256664-images-thumbs&n=13"],
             }
         },
         "прихожая": {
             "цвет": {
-                "белый": ["https://example.com/white_hallway.jpg"],
-                "серый": ["https://example.com/gray_hallway.jpg"],
-                "коричневый": ["https://example.com/brown_hallway.jpg"],
+                "белый": ["https://avatars.mds.yandex.net/i?id=800830123cb8c31cd8345075b913a92d1568baa5-10285533-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=67e466ce22f2af369797e33adfd50cefd2b7415f-7051980-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=30b3e5a0201c6b920635cce2a4ffb57d666200bd-10599899-images-thumbs&n=13"],
             }
         }
     }
