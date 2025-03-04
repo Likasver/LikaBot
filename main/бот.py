@@ -81,37 +81,37 @@ KNOWLEDGE_BASE = {
 "boho": {
     "гостиная": {
             "цвет": {
-                "белый": ["https://avatars.mds.yandex.net/i?id=9831bea2055206cc08101795306f3101170711f0-7001681-images-thumbs&n=13"],
-                "серый": ["https://avatars.mds.yandex.net/i?id=e9483b7d0a6a83875ec493f6379b85acc2a6b1ea-10354750-images-thumbs&n=13"],
-                "коричневый": ["https://avatars.mds.yandex.net/i?id=7840246eda875417f8d0accc52c9476d974a8491-10849338-images-thumbs&n=13"],
+                "белый": ["https://avatars.mds.yandex.net/i?id=8aa4a05a82af92f04f7579c1f064cc66-5447357-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=f886f1ba94a3b945133200593c643b99-4885303-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=da96ee2608eb6d60f43031c3cc32c877feb7b613-8310741-images-thumbs&n=13"],
             }
         },
         "спальня": {
             "цвет": {
-                "белый": ["https://avatars.mds.yandex.net/i?id=c03fb413757ddc5612846a1d0d24a7b816799e21edd67585-11376718-images-thumbs&n=13"],
-                "серый": ["https://avatars.mds.yandex.net/i?id=5f96837ea117caff962f45570eadf75b760b4507-13509485-images-thumbs&n=13"],
-                "коричневый": ["https://avatars.mds.yandex.net/i?id=cdc84be21d1e7a6774c28155f130e6b0851b677b-10767243-images-thumbs&n=13"],
+                "белый": ["https://avatars.mds.yandex.net/i?id=6910781f04619e4244eb477cd2d006b155013728-10555242-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=95c24d10f664bdd78f1e6db13e7bad610a9a3826-8225729-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=8a3cf95cffb91525dba88ea6dbbe6d0ed77267b7-12639726-images-thumbs&n=13"],
             }
         },
         "кухня": {
             "цвет": {
-                "белый": ["https://avatars.mds.yandex.net/i?id=b9412bea812c583a1a6d6585db45bb0d306226f6-7065709-images-thumbs&n=13"],
-                "серый": ["https://avatars.mds.yandex.net/i?id=19f4906a9d15885e3b97f204ede03e6d22065f0f-12500826-images-thumbs&n=13"],
-                "коричневый": ["https://avatars.mds.yandex.net/i?id=6542bb102e98e7f7de4a4a55725b753a1e27d5b3-13469218-images-thumbs&n=13"],
+                "белый": ["https://avatars.mds.yandex.net/i?id=8ccaedfaa9ddffd2de0efecacd7b8f31d724d25c-4552311-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=af0cc61df42f3aea6fb54e43d7bddaf7d6e3ed93-6948220-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=2a00000179ff22c0f875defa8afe4a3d334a-4575918-images-thumbs&n=13"],
             }
         },
         "детская": {
             "цвет": {
-                 "белый": ["https://avatars.mds.yandex.net/i?id=d1be969f28378d95daea12bd73577a6430781280-5271179-images-thumbs&n=13"],
-                "серый": ["https://avatars.mds.yandex.net/i?id=82de79a93e1655ad49365c5e16336d76e1fdeda6-5364055-images-thumbs&n=13"],
-                "коричневый": ["https://avatars.mds.yandex.net/i?id=d163d04147506fa004b1e99944bbf6f951d2d5ee-12540459-images-thumbs&n=13"],
+                 "белый": ["https://avatars.mds.yandex.net/i?id=76f6c2ce731bf82c1f66de7aa0f2811848700774-8497203-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=2fca30b1b98a2e7914fb3183b124ba09-5549228-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=5caf41726e7668cabab78d5c4dfcbfb24a41ed69-5235028-images-thumbs&n=13"],
             }
         },
         "прихожая": {
             "цвет": {
-                "белый": ["https://avatars.mds.yandex.net/i?id=0a862016d139f5c9a73f79dcf1161f412b4eb076-9847625-images-thumbs&n=13"],
-                "серый": ["https://avatars.mds.yandex.net/i?id=9bf9449def76a62b5753b6551006c33e4fb283be-5221636-images-thumbs&n=13"],
-                "коричневый": ["https://avatars.mds.yandex.net/i?id=e55851226c2b70a9c8b12e79ab973427d3ddff19-9860570-images-thumbs&n=13"],
+                "белый": ["https://avatars.mds.yandex.net/i?id=8ed397f4a4271c1d7a0054a787db077206f562d0-12575309-images-thumbs&n=13"],
+                "серый": ["https://avatars.mds.yandex.net/i?id=a2bb592d96abeb5500fa4944fc9a37863616ed94-9832347-images-thumbs&n=13"],
+                "коричневый": ["https://avatars.mds.yandex.net/i?id=883de5ba9b4a2eaf4760b4a82de5fd91415ef235-12490070-images-thumbs&n=13"],
             }
         }
     }
