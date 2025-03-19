@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Константы
-BOT_TOKEN = "7636250407:AAGDTAep7JAP7Ak_h8Pq1Fih1kssm4-RJv4"
+BOT_TOKEN = "7636250407:AAFVqHGrt4F9-gkSrTYTrzugAMz8njx_SWI"
 KNOWLEDGE_BASE = {
     "minimalism": {
         "гостиная": {
